@@ -8,4 +8,4 @@
 
 |**Course**|**Certificate**|
 |---|---|
-|<a href="https://softuni.bg/trainings/3013/python-advanced-september-2020"> Python Fundamentals </a>|<a href="https://softuni.bg/Certificates/Details/90079/6025d14e"> Certificate </a>
+|<a href="https://softuni.bg/trainings/3013/python-advanced-september-2020"> Python Advanced </a>|<a href="https://softuni.bg/Certificates/Details/90079/6025d14e"> Certificate </a>
